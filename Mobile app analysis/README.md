@@ -1,6 +1,6 @@
 # Анализ бизнес-показателей развлекательного приложения Procrastinate Pro+
 
-[Ссылка на проект](https://github.com/runinred/Files/blob/main/Mobile%20app%20business%20performance%20analysis/Mobile%20app%20business%20performance%20analysis.ipynb)
+[Ссылка на проект](https://github.com/runinred/yandex_practicum/blob/main/Mobile%20app%20analysis/Mobile%20app%20analysis.ipynb)
 
 ## Описание проекта
 
