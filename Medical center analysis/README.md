@@ -1,6 +1,6 @@
 # Анализ коммерческой деятельности медицинской организации
 
-[Ссылка на проект](https://github.com/runinred/Files/blob/main/Medical%20center%20data%20research/Medical_center_data_research.ipynb)
+[Ссылка на проект](https://github.com/runinred/yandex_practicum/blob/main/Medical%20center%20analysis/Medical%20center%20analysis.ipynb)
 
 ## Описание проекта
 
