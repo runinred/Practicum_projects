@@ -1,6 +1,6 @@
 # Исследование данных о российском кинопрокате
 
-[Ссылка на проект](https://github.com/runinred/Files/blob/main/Russian%20film%20distribution%20data%20research/Russian%20film%20distribution%20data%20research.ipynb)
+[Ссылка на проект](https://github.com/runinred/yandex_practicum/blob/main/Film%20distribution%20analysis/Film%20distribution%20analysis.ipynb)
 
 ## Описание проекта
 
